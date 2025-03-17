@@ -1,4 +1,8 @@
 
-hola= "Hello world"
+hola= "Hello world "
 
-print(hola)
+chao= "Chao mundo"
+
+print(hola + chao)
+
+
